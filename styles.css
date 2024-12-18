@@ -74,7 +74,7 @@ button {
     font-style: Arial;
 }
 #weather_info >p {
-    font-size: large;
+    font-size: medium;
     font-weight: 600;
     text-align: center;
 }
