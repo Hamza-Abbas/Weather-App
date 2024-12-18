@@ -16,7 +16,7 @@ body {
     margin-top: 1.50em;
     margin-left: 5.50em;
     margin-right: 5.50em;
-    margin-bottom: 1.50em;
+    margin-bottom: 0.50em;
     padding: 0;
     background-color: #dbe3e7; 
     display: flex;
@@ -74,7 +74,7 @@ button {
     font-style: Arial;
 }
 #weather_info >p {
-    font-size: medium;
+    font-size: large;
     font-weight: 600;
     text-align: center;
 }
