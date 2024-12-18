@@ -62,7 +62,7 @@ button {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
-    width: 20em;
+    width: 20em; 
     padding-left: 20px;
     padding-right: 10px;
 }
